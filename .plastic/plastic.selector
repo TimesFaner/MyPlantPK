@@ -1,0 +1,4 @@
+repository "Plant PK@timelordshi@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
